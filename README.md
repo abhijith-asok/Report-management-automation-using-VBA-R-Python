@@ -41,3 +41,5 @@ The tool usage is as follows:
    compressed figures(plots) as well as the Increase/Decrease workbook as attachments.
 
 These 5 scripts/codes, are scheduled one after the other on Windows Task Scheduler for around 11 a.m. everyday, to keep the flow fully automated.
+
+The docx file **Report Automation using VBA-R-Python** documents the entire workflow of the project including the code used for the same.
